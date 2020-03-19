@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/lacework/pcap"
+	"github.com/lacework-dev/pcap"
 )
 
 func min(x uint32, y uint32) uint32 {

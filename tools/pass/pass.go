@@ -9,7 +9,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/lacework/pcap"
+	"github.com/lacework-dev/pcap"
 )
 
 var input *string = flag.String("input", "", "input file")
